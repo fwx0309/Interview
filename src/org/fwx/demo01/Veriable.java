@@ -1,4 +1,4 @@
-package org.fwx;
+package org.fwx.demo01;
 
 /**
  * @ClassName Demo01
@@ -7,7 +7,7 @@ package org.fwx;
  * @Date 2024/2/26 16:07
  * @Version 1.0
  */
-public class Demo01 {
+public class Veriable {
     public static void main(String[] args) {
         int i = 1;
         i = i++;    // 这里操作数栈中 1 赋值给 i，所以这部操作完后，i = 1
