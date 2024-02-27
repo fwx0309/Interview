@@ -2,6 +2,10 @@ package org.fwx.demo04;
 
 import java.util.Arrays;
 
+/**
+ * 下题需要注意，String 和 包装类具有不可变性，所以输出的值不会变
+ */
+
 public class Exam4 {
 	public static void main(String[] args) {
 		int i = 1;
